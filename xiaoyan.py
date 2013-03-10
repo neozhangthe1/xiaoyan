@@ -1,7 +1,7 @@
 from flask import Flask, render_template
 import os
 
-port = int(os.environ.get('port', 3000))
+port = int(os.environ.get('PORT', 3000))
 app = Flask(__name__)
 
 @app.route("/")
