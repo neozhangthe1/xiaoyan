@@ -1,0 +1,19 @@
+{
+<<<<<<< HEAD
+    "name": "xiaoyan"
+  , "version": "0.0.1"
+  , "private": true
+  , "dependencies": {
+      "express": "3.x"
+  }, "engines": {
+      "node": "0.8.21",
+      "npm": "1.2.12"
+=======
+    "name": "introtonode"
+  , "version": "0.0.1"
+  , "private": true
+  , "dependencies": {
+      "express": "2.5.8"
+>>>>>>> 25aa9cbf70683e3c0d8e222cf158e30bdb0238dc
+  }
+}
